@@ -1,0 +1,12 @@
+{
+  "name": "chat-skin",
+  "displayName": "会话皮肤",
+  "version": "1.3.0",
+  "description": "会话皮肤（已固化 · 随页面自动注入）：皮肤本体在 dist/assets/chat-skin.js，本插件仅作兜底加载与状态自检。",
+  "author": "Codex",
+  "icon": "Puzzle",
+  "type": "module",
+  "slot": "tab",
+  "entry": "dist/index.js",
+  "permissions": []
+}
